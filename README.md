@@ -1,6 +1,6 @@
 # Articles
 
-Uma série de artigos curtos, técnicos e objetivos a respeito das engrenagens que movem o universo da tecnologia, com ênfase em Segurança da Informação, Cibersegurança, Hacking, privacidade, anonimato e OPSEC.
+Artigos curtos, técnicos e objetivos sobre Segurança da Informação, Cibersegurança, Hacking, Anonimato e OPSEC: fundamentos, raciocínio e aplicação prática, sem enrolação.
 
 ![Capa do repositório Articles](articles.jpg)
 
@@ -8,5 +8,5 @@ Uma série de artigos curtos, técnicos e objetivos a respeito das engrenagens q
 
 | Artigo | Data |
 |--------|------|
-| Por que a sua privacidade é tão importante | 11/2026 |
-| O mínimo que você precisa saber sobre OPSEC & anonimato | 11/2026 |
+| [Por que a sua privacidade é tão importante](https://github.com/Armidge/Articles/blob/main/Por-que-privacidade-e-importante.md) | 11/2026 |
+| [O mínimo que você precisa saber sobre OPSEC & anonimato](https://github.com/Armidge/Articles/blob/main/O-minimo-sobre-OPSEC-anonimato.md) | 11/2026 |
