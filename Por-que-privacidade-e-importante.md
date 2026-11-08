@@ -26,4 +26,4 @@ Do *smishing*, *pretexting*, *phishing*, *deepfakes* de imagem e voz, *baiting* 
 
 Porque, se você é esperto o bastante para entender que a sua privacidade é importante, seus pais, avós, irmãos ou filhos podem não ser.
 
-Continue lendo: [*O mínimo que você precisa saber sobre OPSEC & anonimato*](https://github.com/Armidge/Lost-Found/blob/main/Articles/O%20m%C3%ADnimo%20que%20voc%C3%AA%20precisa%20saber%20sobre%20OPSEC%20&%20anonimato.md), a respeito das principais táticas e técnicas de segurança e anonimato. Privacidade na prática.
+Continue lendo: [*O mínimo que você precisa saber sobre OPSEC & anonimato*](https://github.com/Armidge/Articles/blob/main/O-minimo-sobre-OPSEC-anonimato.md), a respeito das principais táticas e técnicas de segurança e anonimato. Privacidade na prática.

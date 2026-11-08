@@ -1,10 +1,10 @@
 # O mínimo que você precisa saber sobre OPSEC & anonimato
 
-Esse pequeno artigo é a segunda parte, um tanto mais prática, de um outro artigo: [*Por que a sua privacidade é tão importante*](https://github.com/Armidge/Lost-Found/blob/main/Articles/Por%20que%20a%20sua%20privacidade%20%C3%A9%20t%C3%A3o%20importante.md), que tratava de privacidade, do anonimato e da importância dessas coisas para uma sociedade mais livre e segura.
+Esse pequeno artigo é a segunda parte, um tanto mais prática, de um outro artigo: [*Por que a sua privacidade é tão importante*](https://github.com/Armidge/Articles/blob/main/Por-que-privacidade-e-importante.md), que tratava de privacidade, do anonimato e da importância dessas coisas para uma sociedade mais livre e segura.
 
 ## Um quartinho sobre OPSEC!
 
-Do princípio, [OPSEC](https://www.fortinet.com/br/resources/cyberglossary/operational-security) é um acrônimo para Operations Security ou Segurança de Operações, originada em algum momento durante a guerra do Vietnã, graças aos esforços de uma [força-tarefa apelidada de Purple Dragon](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-histories/purple_dragon.pdf), do exército norte-americano. Conforme a NSA, OPSEC seria "a disciplina que transforma conscientização em ação, reduzindo vulnerabilidades antes que elas sejam descobertas e exploradas", ou ainda:
+Do princípio, [OPSEC](https://www.fortinet.com/br/resources/cyberglossary/operational-security) é um acrônimo para Operations Security ou Segurança de Operações, originada em algum momento durante a guerra do Vietnã, graças aos esforços de uma [força-tarefa apelidada de *Purple Dragon*](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/cryptologic-histories/purple_dragon.pdf), do exército norte-americano. Conforme a NSA, OPSEC seria "a disciplina que transforma conscientização em ação, reduzindo vulnerabilidades antes que elas sejam descobertas e exploradas", ou ainda:
 
 "OPSEC é um processo sistemático que pode ser aplicado por organizações para negar a potenciais adversários informações sobre capacidades e intenções, por meio da identificação, do controle e da proteção de informações e evidências, geralmente não classificadas, do planejamento e da execução de atividades sensíveis e classificadas." ([*The National OPSEC Program*](https://media.defense.gov/2021/Jun/29/2002751705/-1/-1/0/THE_NATIONAL_OPSEC_PROGRAM.PDF), NSA.)
 
